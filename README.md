@@ -1,5 +1,3 @@
-# image2text-task
-This repository contains two tasks according to the assignment 
 # Image2text
 
 1.How you split the data into training, validation and test set
@@ -118,3 +116,7 @@ Reference:The paper is available at [https://arxiv.org/abs/1705.07962](https://a
 
 
 
+
+
+   
+   
