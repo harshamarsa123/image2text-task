@@ -32,9 +32,9 @@ cd ../model
 
 # transform images (normalized pixel values and resized pictures) in training dataset to numpy arrays.
 # usage: convert_imgs_to_arrays.py <input path> <output path>
-./convert_imgs_to_arrays.py ../datasets/ios/training_set ../datasets/D1/training_features
-./convert_imgs_to_arrays.py ../datasets/android/training_set ../datasets/D2/training_features
-./convert_imgs_to_arrays.py ../datasets/web/training_set ../datasets/D3/training_features
+./convert_imgs_to_arrays.py ../datasets/D1/training_set ../datasets/D1/training_features
+./convert_imgs_to_arrays.py ../datasets/D2/training_set ../datasets/D2/training_features
+./convert_imgs_to_arrays.py ../datasets/D3/training_set ../datasets/D3/training_features
 ```
 
 Train the model:
